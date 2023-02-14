@@ -1,0 +1,12 @@
+C:\Users\daine\source\repos\CalculadoraTeste\CalculadoraTeste\bin\Debug\net6.0\ImcTeste.deps.json
+C:\Users\daine\source\repos\CalculadoraTeste\CalculadoraTeste\bin\Debug\net6.0\ImcTeste.dll
+C:\Users\daine\source\repos\CalculadoraTeste\CalculadoraTeste\bin\Debug\net6.0\ImcTeste.pdb
+C:\Users\daine\source\repos\CalculadoraTeste\CalculadoraTeste\obj\Debug\net6.0\ImcTeste.csproj.AssemblyReference.cache
+C:\Users\daine\source\repos\CalculadoraTeste\CalculadoraTeste\obj\Debug\net6.0\ImcTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daine\source\repos\CalculadoraTeste\CalculadoraTeste\obj\Debug\net6.0\ImcTeste.AssemblyInfoInputs.cache
+C:\Users\daine\source\repos\CalculadoraTeste\CalculadoraTeste\obj\Debug\net6.0\ImcTeste.AssemblyInfo.cs
+C:\Users\daine\source\repos\CalculadoraTeste\CalculadoraTeste\obj\Debug\net6.0\ImcTeste.csproj.CoreCompileInputs.cache
+C:\Users\daine\source\repos\CalculadoraTeste\CalculadoraTeste\obj\Debug\net6.0\ImcTeste.dll
+C:\Users\daine\source\repos\CalculadoraTeste\CalculadoraTeste\obj\Debug\net6.0\refint\ImcTeste.dll
+C:\Users\daine\source\repos\CalculadoraTeste\CalculadoraTeste\obj\Debug\net6.0\ImcTeste.pdb
+C:\Users\daine\source\repos\CalculadoraTeste\CalculadoraTeste\obj\Debug\net6.0\ref\ImcTeste.dll

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImcTeste", "CalculadoraTeste\ImcTeste.csproj", "{829E1BA0-B3D7-42BA-A4B0-AAF098645FB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MsTest", "MsTest\MsTest.csproj", "{90332ECE-F49A-40C8-937C-C19DF919B304}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteXUnit", "TesteXUnit\TesteXUnit.csproj", "{6C04FDA9-6DE7-4B8E-8344-42587BEEC3DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{829E1BA0-B3D7-42BA-A4B0-AAF098645FB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{829E1BA0-B3D7-42BA-A4B0-AAF098645FB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{829E1BA0-B3D7-42BA-A4B0-AAF098645FB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{829E1BA0-B3D7-42BA-A4B0-AAF098645FB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90332ECE-F49A-40C8-937C-C19DF919B304}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90332ECE-F49A-40C8-937C-C19DF919B304}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90332ECE-F49A-40C8-937C-C19DF919B304}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90332ECE-F49A-40C8-937C-C19DF919B304}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C04FDA9-6DE7-4B8E-8344-42587BEEC3DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C04FDA9-6DE7-4B8E-8344-42587BEEC3DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C04FDA9-6DE7-4B8E-8344-42587BEEC3DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C04FDA9-6DE7-4B8E-8344-42587BEEC3DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4B6E8C2-A7E0-4C05-9F7A-303347C01C1D}
+	EndGlobalSection
+EndGlobal
